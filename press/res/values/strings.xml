@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hello world</string>
+    <string name="dummy_button">m/s to ft/s</string>
+    <string name="dummy_content">THE\nBUTTON\nHAS\nNOT\nBEEN\nPRESSED</string>
+
+</resources>
